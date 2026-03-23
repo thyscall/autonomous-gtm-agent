@@ -33,6 +33,7 @@ View the architecture diagram in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ## Project Structure
 
+```text
 autonomous_gtm_agent/
 │
 ├── shared/
